@@ -179,7 +179,12 @@
                 "pool_id": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
                 "member_since": "2020-12-30",
                 "name": "[BKK] Suvarnabhumi airport Thailand"
-            }
+
+            },
+             "31": {
+                "pool_id": "01c1b3f6a85328ea68000141a3e10965a9c83b5ba151d3ebfc85ded7",
+                "member_since": "2020-12-01",
+                "name": "[NOW] NOWgrantsARTISTS Stakepool"
         }
     }
 }
